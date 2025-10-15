@@ -32,7 +32,9 @@ class SiteNavbar extends HTMLElement {
                 <a href="${base}pages/availability.html" class="nav-link">Reservas</a>
                 <a href="${base}pages/reviews.html" class="nav-link">Reseñas</a>
                 <a href="${base}pages/contact.html" class="nav-link">Contacto</a>
+                <a href="${base}pages/politicas.html" class="nav-link">politicas</a>
                 <a href="#" class="nav-link" id="login-btn">Iniciar Sesión</a>
+
                 <a href="#" class="nav-link" id="register-btn">Registrarse</a>
             </div>
             <div class="nav-toggle" id="nav-toggle">
